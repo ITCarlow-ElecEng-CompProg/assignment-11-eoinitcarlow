@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1511790602 source:d:\programming\exercise11\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<windows.h>
+	<math.h>
+
+1511789784 source:g:\programming\exercise11\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<windows.h>
+	<math.h>
+
